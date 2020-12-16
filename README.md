@@ -8,7 +8,7 @@ hea_data.csv
 16128_nirnay_final_project.ipynb
 
 ## Report
-hea_data.csv
+16128_nirnay_Report.pdf
 
 ## Video
 16128_nirnay_video.mp4
